@@ -3,6 +3,12 @@
 This is [the recipe for Banana Crumb Muffins](http://allrecipes.com/recipe/17652/banana-crumb-muffins/), laid out as a Git repository.
 Just for fun.
 
+> [!NOTE]
+> The git graph below should be read from bottom to top (because that's how the git client I used for this screenshot shows git graphs)
+>
+> Regardless, the core idea stands that representing recipes as a graph—with separate branches per recipient merging when they should be mixed together—rather than linear instructions could be useful idea to entertain 😉
+
+
 ![git graph](git-graph.png)
 
 * Each commit represent a step in the recipe.
@@ -12,4 +18,4 @@ Just for fun.
 
 ----
 
-![recipe-photo](Banana Crumb Muffins.jpg)
+![recipe-photo](Banana%20Crumb%20Muffins.jpg)
